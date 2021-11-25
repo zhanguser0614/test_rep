@@ -32,8 +32,8 @@
 
 
 我们可以将工程项目打包山窜到[GITHUB][1]进行托管 ，开发者可以下载[GIT][2]软件进行项目管理和版本控制
-[1]: https://www.github.com "github官网"
-[2]: https://git-scm.com/downloads "git下载"
+[1]: (https://www.github.com "github官网")
+[2]: (https://git-scm.com/downloads "git下载")
 
 测试插入图片
 
